@@ -7,7 +7,7 @@ A VGG Convolutional Neural Network (CNN) built with **Keras and TensorFlow** to 
 This project filters the CIFAR-10 dataset down to **binary classification**:
 * **Class 0:** Cat
 * **Class 1:** Dog
-* **Image Size:** $32 \times 32$ pixels (RGB)
+* **Image Size:** 32 x 32 pixels (RGB)
 
 ## Model Architecture
 
