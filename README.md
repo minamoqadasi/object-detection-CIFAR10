@@ -1,6 +1,6 @@
 # CIFAR-10: Cats vs. Dogs Classifier
 
-A Convolutional Neural Network (CNN) built with **Keras and TensorFlow** to classify images specifically between **Cats** and **Dogs** using a subset of the CIFAR-10 dataset.
+A VGG Convolutional Neural Network (CNN) built with **Keras and TensorFlow** to classify images specifically between **Cats** and **Dogs** using a subset of the CIFAR-10 dataset.
 
 ## Dataset
 
